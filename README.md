@@ -1,6 +1,5 @@
 # Exp-10--Record-IMPLEMENTATION-OF-OPENING-AND-CLOSING
 
-# EXP10-Opening and Closing Operations Using OpenCV
 # NAME :KARANKUMAR K
 # REG NO : 212225040171
 ## Aim
@@ -110,6 +109,8 @@ plt.show()
 ```
 
 ## Output
+
+<img width="950" height="205" alt="download" src="https://github.com/user-attachments/assets/b01006dc-1d3e-424b-8132-de750bb11a0c" />
 
 
 ### Original Image
